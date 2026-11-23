@@ -2,3 +2,6 @@ https://www.google.com/search?q=codigo+login+php&sca_esv=8f736cdf260ec7db&biw=68
 
 
 $senha = password_hash('1234', PASSWORD_DEFAULT);
+
+
+https://www.digitalocean.com/community/tutorials/create-insert-table-mysql
